@@ -73,6 +73,10 @@
 
 
 
-## 7. 버전
+## 7. 시연 화면 유튜브 링크
+[![METABOOK 페이지 시연](https://img.youtube.com/vi/4LRtDVs6UOg/0.jpg)](https://youtu.be/4LRtDVs6UOg)
+
+
+## 8. 버전
 
 -   1.0
